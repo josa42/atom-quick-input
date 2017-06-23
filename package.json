@@ -1,0 +1,20 @@
+{
+  "name": "atom-quick-input",
+  "version": "0.0.0",
+  "description": "",
+  "main": "lib/quick-input.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "author": "Josa Gesell <josa@gesell.me>",
+  "license": "MIT",
+  "repository": "https://github.com/josa42/atom-quick-input",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.3.0",
+    "eslint-plugin-node": "^4.2.2",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1"
+  }
+}
